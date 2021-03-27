@@ -1,0 +1,2 @@
+# COMP-IV-MESSAGE
+My assignments from COMP IV, using SFML and Boost Libraries using C++. These are multi part projects and often take time and patience to write. Compilation of programs often involve using a makefile and tools such as valgrind, cpplint, and boost libraries. Due to plaigarism and cheating, I have made this repository private. Please email me at stephanie_la@student.uml.edu if you would like a link to the folder. :)
